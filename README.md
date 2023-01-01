@@ -28,3 +28,5 @@
 |   Steam                                        |   -16.22  |
 |   Payoff                                       |   -100    |
 |   Phone                                        |   -20     |
+
+... ignoring phone bills
