@@ -1,6 +1,6 @@
 # EX ROOMMATE THAT OWES ME WAY TO MUCH MONEY
 
-|   TOTAL                                        |   3,075.28|
+|   TOTAL                                        |   5,637.28|
 |------------------------------------------------|-----------|
 |   I forgot but most of it was your bed.        |   2,562   |
 |   Rent for October 2022                        |   316     |
